@@ -50,7 +50,7 @@ export default function Home() {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>My Looping Video</h1>
+      <h1 style={styles.title}>Szia Bátyus, helyzet?</h1>
 
       {/* Video Player */}
       <video ref={videoRef} autoPlay loop style={styles.media}>
